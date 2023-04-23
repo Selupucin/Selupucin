@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on our projects<br>🌱 I’m currently learning react native<br>💬 Ask me about web software
+I'm a full-stack developer who loves front-end dev. I constantly improve my skills and enjoy creative projects.
 
 
 ## 🌐 Socials:
