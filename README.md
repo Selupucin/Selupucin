@@ -5,6 +5,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+---
+
 [![](https://visitcount.itsvg.in/api?id=Selupucin&icon=3&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
