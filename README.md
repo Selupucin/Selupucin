@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <a href="https://github.com/Selupucin">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42b883,100:1a936f&height=210&section=header&text=Selupucin&fontColor=ffffff&fontSize=64&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20Designer&descAlignY=58&descSize=20&descAlignX=50" alt="banner" />
+  <img width="100%" src="./banner.svg" alt="Selupucin - Full-Stack Developer & Designer" />
 </a>
 
 <!-- ===================== TYPING + VIEWS ===================== -->
@@ -83,17 +83,8 @@
 
 </div>
 
-<!-- ===================== TROPHIES ===================== -->
-## &nbsp;&nbsp;🏆 &nbsp;Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Selupucin&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
-
 <!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a936f,100:42b883&height=120&section=footer" alt="footer" />
+<img width="100%" src="./footer.svg" alt="footer" />
 
 <div align="center">
   <sub>⭐ <a href="https://github.com/Selupucin">github.com/Selupucin</a></sub>
