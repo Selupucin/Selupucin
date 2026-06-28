@@ -22,8 +22,8 @@
 > Hem **kod yazan** hem **tasarlayan** bir geliştiriciyim — bir fikri Figma taslağından canlı ürüne tek başıma taşıyabiliyorum.
 
 - 🧩 &nbsp;**Odak:** modern web uygulamaları, temiz arayüz ve iyi kullanıcı deneyimi
-- 🛠️ &nbsp;**Şu an:** `// güncel projeni buraya yaz`
-- 🌱 &nbsp;**Öğreniyorum:** `// öğrendiğin yeni teknolojiyi yaz`
+- 🛠️ &nbsp;**Şu an:** CRm sistemleri ve Kurumsal Web Siteleri konusunda çalışmalarım mevcut
+- 🌱 &nbsp;**Öğreniyorum:** React Native
 - 💬 &nbsp;**Konuşmayı severim:** React, Vue, Next.js, UI/UX, design systems
 - 🎨 &nbsp;**Bonus:** Adobe ekosistemiyle de aram iyi — Lightroom, Canva, Dreamweaver dahil
 
